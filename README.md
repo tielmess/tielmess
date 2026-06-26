@@ -1,4 +1,4 @@
-# Hi, I’m Trudy 👋
+# Hi, I’m Trudy ✌️
 
 UI Developer & HTML Email Specialist focused on semantic HTML, modern CSS, accessibility, and design-system-led front-end work. This GitHub profile collects my public layout templates, modular email builds, and early-stage experiments in React and PHP.
 
