@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Trudy 👋
 
-<!--
-**tielmess/tielmess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI Developer & HTML Email Specialist focused on semantic HTML, modern CSS, accessibility, and design-system-led front-end work. This GitHub profile collects my public layout templates, modular email builds, and early-stage experiments in React and PHP.
 
-Here are some ideas to get you started:
+My work sits in the presentation layer: turning ideas and high-fidelity designs into responsive, maintainable interfaces for web and email. I’m especially interested in accessibility, reusable components, lightweight tooling, and joined-up user journeys across email and landing pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured areas
+
+- Responsive HTML/CSS layout templates
+- Modular HTML email components
+- UI pattern and navigation experiments
+- Early React and PHP template systems
+
+## Links
+
+- Portfolio: [trudymessingham.co.uk/portfolio](https://trudymessingham.co.uk/portfolio/)
+- Playground: [trudymessingham.co.uk/playground](https://trudymessingham.co.uk/playground/)
+- LinkedIn: [linkedin.com/in/trudymessingham](https://www.linkedin.com/in/trudymessingham/)
